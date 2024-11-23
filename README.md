@@ -41,7 +41,7 @@ The goal of this study is to enhance the understanding of HIV research distribut
    - Produces box plots, bar charts, and pie charts to explore relationships between income groups and study counts.
    - Highlights top contributing countries in each income group.
 
-5. **Tissue and Protein Study Analysis** *(New)*
+5. **Tissue and Protein Study Analysis**
    - Examines the prevalence of different tissue specimen sources (e.g., "blood" vs. "other").
    - Identifies and visualizes the percentage of missing or unspecified data across income groups.
    - Compares envelope proteins to all proteins in HIV studies by country and income group.
@@ -62,8 +62,8 @@ The repository generates the following key visualizations:
 4. **Stacked Bar Chart**: Top contributing countries for each income group.
 5. **Pie Charts**: Proportions of studies by country within income groups.
 6. **Tissue Specimen Bar Chart** *(New)*: Comparison of "blood" vs. "other" tissue sources.
-7. **Missing Data Bar Chart** *(New)*: Percentage of unspecified tissue sources by income group.
-8. **Protein Study Bar Chart** *(New)*: Comparison of envelope proteins vs all proteins by income group.
+7. **Missing Data Bar Chart**: Percentage of unspecified tissue sources by income group.
+8. **Protein Study Bar Chart**: Comparison of envelope proteins vs all proteins by income group.
 
 ---
 
@@ -104,16 +104,6 @@ The repository generates the following key visualizations:
    - Perform data cleaning.
    - Generate analyses.
    - Create visualizations saved in the output directory.
-
----
-
-## Example Outputs
-
-1. **Temporal Distribution**: `5yr_hiv_cases_by_counts.png`
-2. **Geographic Distribution**: `hiv_distribution_map.png`
-3. **Income Group Analysis**: `a.1.2.income_dist.pdf`
-4. **Tissue Specimen Analysis**: `IO2.3.pdf`, `IO2.pdf`
-5. **Protein Study Analysis**: `Aim2.1.a.png`
 
 ---
 
